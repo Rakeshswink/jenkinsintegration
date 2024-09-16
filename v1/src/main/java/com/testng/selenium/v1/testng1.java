@@ -19,7 +19,7 @@ public class testng1
 
         // Initialize the class-level WebDriver (Chrome in this case)
         driver = (WebDriver) new ChromeDriver();
-        System.out.println("chrome Driver Initialized.");
+        System.out.println("chrome Driver Initialized test1.");
     }
 
     // Test case to load a URL and verify the page title

@@ -47,7 +47,7 @@ public class testng1
         if (driver != null) {
             // Close the browser
             driver.quit();
-            System.out.println("Browser closed.");
+            System.out.println("Browser closed tnq.");
         }
     }
 }

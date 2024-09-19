@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-16T14:48:20 IST" name="Default suite" finished-at="2024-09-16T14:48:23 IST" duration-ms="2736">
+  <suite started-at="2024-09-19T11:32:08 IST" name="Default suite" finished-at="2024-09-19T11:32:13 IST" duration-ms="4751">
     <groups>
     </groups>
-    <test started-at="2024-09-16T14:48:20 IST" name="Default test" finished-at="2024-09-16T14:48:23 IST" duration-ms="2736">
+    <test started-at="2024-09-19T11:32:08 IST" name="Default test" finished-at="2024-09-19T11:32:13 IST" duration-ms="4751">
       <class name="com.testng.selenium.v1.testng1">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testng.selenium.v1.testng1@52e6fdee]" started-at="2024-09-16T14:48:20 IST" name="setUp" finished-at="2024-09-16T14:48:22 IST" duration-ms="1335" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testng.selenium.v1.testng1@7b9a4292]" started-at="2024-09-19T11:32:08 IST" name="setUp" finished-at="2024-09-19T11:32:11 IST" duration-ms="2980" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loadUrlTest()[pri:0, instance:com.testng.selenium.v1.testng1@52e6fdee]" started-at="2024-09-16T14:48:22 IST" name="loadUrlTest" finished-at="2024-09-16T14:48:23 IST" duration-ms="1154" status="PASS">
+        <test-method signature="loadUrlTest()[pri:0, instance:com.testng.selenium.v1.testng1@7b9a4292]" started-at="2024-09-19T11:32:11 IST" name="loadUrlTest" finished-at="2024-09-19T11:32:13 IST" duration-ms="1355" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadUrlTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testng.selenium.v1.testng1@52e6fdee]" started-at="2024-09-16T14:48:23 IST" name="tearDown" finished-at="2024-09-16T14:48:23 IST" duration-ms="211" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testng.selenium.v1.testng1@7b9a4292]" started-at="2024-09-19T11:32:13 IST" name="tearDown" finished-at="2024-09-19T11:32:13 IST" duration-ms="351" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
